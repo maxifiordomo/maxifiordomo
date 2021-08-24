@@ -1,16 +1,16 @@
-### Hi there 👋
+### Buenas 👋
 
-<!--
-**maxifiordomo/maxifiordomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⭐ Soy Programador Frontend, trabajo principalmente con Javascript y React JS. Actualmente estoy buscando trabajo y con muchas ganas de aprender. Comencé a programar hace un año de manera autodidacta desde agosto del 2020 y comencé a subir proyectos actuales.
 
-Here are some ideas to get you started:
+🌱 Tecnologías que estoy aprendiendo actualmente:
+Javascript.
+React JS.
+Firebase.
+Node JS.
+Express JS.
+Redux JS.
+Jest.
+Git.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
